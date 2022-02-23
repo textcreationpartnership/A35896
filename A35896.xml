@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between the E. of Sh-- and L. Bell-- in the Tower, concerning the plot</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35896</idno>
+            <idno type="STC">Wing D1330</idno>
+            <idno type="STC">ESTC R637</idno>
+            <idno type="EEBO-CITATION">12264797</idno>
+            <idno type="OCLC">ocm 12264797</idno>
+            <idno type="VID">57979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between the E. of Sh-- and L. Bell-- in the Tower, concerning the plot</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Belasyse, John Belasyse, --  Baron, 1615-1689.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:57979:1" rendition="simple:additions"/>
+            <head>A DIAOLOGUE BETWEEN THE E. of Sh— and L. Bell— In the <hi>Tower,</hi> concerning the PLOT.</head>
+            <sp>
+               <speaker>S.</speaker>
+               <p>MY Lord,</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Who's there?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>A Melancholly Peer:</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Your Name?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>'Tis <hi>S—ry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Then come not here.</l>
+               <l>Yet hold, methinks though, I am pleas'd to ſee</l>
+               <l>Your Lordſhip in ſuch Honeſt Company.</l>
+               <l>'Tis long ſince you and I exchang'd a Word,</l>
+               <l>But 'tis to you I owe the Thanks my Lord.</l>
+               <l>Why ſhould you make our Plot a Female one?</l>
+               <l>And Copulating with her get a Son.</l>
+               <l>Is't thus you Signalize your Fame and Worth,</l>
+               <l>To let your Plots from ours have their Birth?</l>
+               <l>My Lord, I thought you more your Honour priz'd,</l>
+               <l>Than to endure to be thus Scandaliz'd.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Saving your Lordſhips Favour, you muſt know,</l>
+               <l>That I have as much right to Plot as you.</l>
+               <l>I took more pains then ever you yet did,</l>
+               <l>But all my pinking could not keep it hid.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>This Plaguy Juſtice is a bitter thing:</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>And ſo is Law, Religion and a King.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>But heark you Sir, do you take us for Fools,</l>
+               <l>To rail againſt us, and yet uſe our Rules?</l>
+               <l>Cannot we ſow Diviſion in a State,</l>
+               <l>But you muſt do it too at any Rate?</l>
+               <lg>
+                  <l>Can't we broach Maximes for Depoſing Kings,</l>
+                  <l>Trample on Crowns, and uſe Ambitious Wings,</l>
+                  <l>But you muſt act. the ſame great Noble things?</l>
+               </lg>
+               <lg type="beginning_of_triplet">
+                  <l>Is't not enough for us to do what's evil,</l>
+                  <l>But you muſt alſo give your ſelf to th' Devil?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <lg type="end_of_triplet">
+                  <l>Nay pray Sir, I beſeech you ben't uncivil:</l>
+               </lg>
+               <l>Perhaps in him I claim as much as you;</l>
+               <l>I for Religion wear the trueſt Blew.</l>
+               <l>There wants a Reformation in the State,</l>
+               <l>And the <hi>True Proteſtants</hi> I would make Great.</l>
+               <l>The Duke of <hi>York</hi> I would Exclude in Seaſon,</l>
+               <l>And ſet up <hi>M—</hi> without Senſe or Reaſon.</l>
+               <l>I with the Godly ones will once more Joyn,</l>
+               <l>To darken and deſtroy the Royal Line.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Now 'tis you have a Zealous Rebels Fate,</l>
+               <l>Thus Fairly Suffering for the Saints o'th' State.</l>
+               <l>But yet my Lord, I do not underſtand,</l>
+               <l>Why you ſhould take our Plot out of our Hand,</l>
+               <l>And rob us of that Honour we ſhould have.</l>
+               <l>Pray good my Lord, let me your Reaſons crave.</l>
+               <l>I ſay 'twas perfect Theft.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:57979:2" rendition="simple:additions"/>
+               <speaker>S.</speaker>
+               <l>You went about</l>
+               <l>The grand Affair as if you'd ne'r get out.</l>
+               <l>It was but Bunglingly you made a ſhow,</l>
+               <l>Our Plot from Sounder Politicks does grow.</l>
+               <l>Our Cauſe the Godly's is, who would once more,</l>
+               <l>Make <hi>Eighty One</hi> dance back to <hi>Fourty Four.</hi>
+               </l>
+               <l>Faction and Tumult I will ſtill prefer,</l>
+               <l>For I'm ſecure by being Popular.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>And what did Fate at laſt upon you ſhower,</l>
+               <l>But Bungle you with me here in the <hi>Tower?</hi>
+               </l>
+               <l>Suppoſe you ſhould be made in each degree,</l>
+               <l>To be a greater Traitor far than me;</l>
+               <l>You that have ſet three Kingdoms in a Flame,</l>
+               <l>By the Grand Magick of a Triple Name.</l>
+               <l>You that have riggled in as many Shapes,</l>
+               <l>As <hi>Proteus,</hi> or a Colony of <hi>Apes.</hi>
+               </l>
+               <l>You that have headed Factions, ſtill appear'd</l>
+               <l>Like the great <hi>Northern</hi> Star by which they ſtear'd.</l>
+               <l>You that have been ſo Treacherous to a King,</l>
+               <l>So conſtant to the many-headed thing.</l>
+               <lg>
+                  <l>So Falſe to Princes, ſo unjuſt to Peers,</l>
+                  <l>How durſt thou venture to prophane my Ears,</l>
+                  <l>With your old Grievance, <hi>Jealouſies and Fears?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>You dug this pit for us, but Juſtice ſhows,</l>
+                  <l>He that's a Foe to Friends, and Friend to Foes,</l>
+                  <l>Tho' ſpar'd a while, yet ne'er unpuniſht goes.</l>
+               </lg>
+               <lg>
+                  <l>How free from Plots I liv'd, let time declare,</l>
+                  <l>But for your wiles I might have breath'd elſewhere;</l>
+                  <l>Tho' now (like you) I'm forc'd to take this Air.</l>
+               </lg>
+               <l>Oh! that ſince Juſtice has been yet ſo kind,</l>
+               <l>To ſpare you, you'd be <hi>Popiſhly</hi> enclin'd;</l>
+               <l>And let this ſpace (how ſhort the Heavens know)</l>
+               <l>That's now vouchſaf'd you to conſume below,</l>
+               <l>Be ſpent in Prayers and Tears, that this bleſt place,</l>
+               <l>You like your <hi>Purgatory</hi> may embrace.</l>
+               <l>Diſgorge your Ape-ſick Soul of all that's paſt,</l>
+               <l>Speak Truth, and that once ſpoken, ſpeak your laſt.</l>
+               <l>
+                  <hi>Farewel.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>But hold my Lord, one word for me,</l>
+               <l>Pray let me ſhow you my Integrity.</l>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <l>Begone, I'l hear no more, but this I'l leave,</l>
+               <l>The poor unthinking Crowd to undeceive.</l>
+               <l>He that would write a ſecond part of thee,</l>
+               <l>Muſt dip in Gall, and work with Tragedy.</l>
+               <l>Abandon Conſcience, break, not fear the Laws,</l>
+               <l>Throw off Allegiance to ſupport the Cauſe.</l>
+               <lg>
+                  <l>Be this, or that, or any thing that's Ill,</l>
+                  <l>Make Plots, then find 'em out, Forſwear and Kill,</l>
+                  <l>And frame a <hi>Magna Charta</hi> of his Will.</l>
+               </lg>
+               <l>Side with the growing Faction; ridicule</l>
+               <l>All but the patient <hi>Aſs</hi> and plodding <hi>Mule.</hi>
+               </l>
+               <l>Vail with Religion, that's a certain Mask,</l>
+               <l>The Godly party 'll give before you Ask.</l>
+               <l>But his Meanders cannot be expreſt,</l>
+               <l>Words are too mean, I bluſh to think the reſt.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> A. T. Anno Dom. <hi>1681.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
